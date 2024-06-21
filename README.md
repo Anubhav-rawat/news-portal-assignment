@@ -17,6 +17,29 @@ The News Portal is a web application built using React.js, designed to fetch and
 - **API Limitations:** The news API used had restrictions that limited deployment to localhost only, posing challenges for deployment to external servers.
 - **Integration Complexity:** Integrating pagination, favorite articles functionality using local storage, and ensuring responsive design were initial challenges during development.
 
+  ## Table of Contents
+  ### Features
+
+#### Fetching News
+
+Display the latest news articles from various categories like Business, Entertainment, Health, Science, Sports, and Technology using an external API.
+
+#### Pagination
+
+Navigate through multiple pages of news articles to ensure a smooth browsing experience.
+
+#### Search by Keyword
+
+Allow users to search for news articles by entering keywords, making it easy to find specific topics.
+
+#### Add to Favorites
+
+Enable users to save their favorite articles locally using the browser's local storage.
+
+#### Responsive Design
+
+Ensure the application is responsive and works well across different devices, including desktops, tablets, and mobile phones.
+
 
 
 
