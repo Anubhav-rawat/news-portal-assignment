@@ -41,6 +41,33 @@ Enable users to save their favorite articles locally using the browser's local s
 Ensure the application is responsive and works well across different devices, including desktops, tablets, and mobile phones.
 
 
+## How to Install and Run the Project
+
+Follow these steps to set up and run the News Portal project locally:
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+- Node.js
+- npm (Node Package Manager)
+
+### Clone the Repository
+
+First, clone the repository to your local machine 
+
+### Install Dependencies
+
+npm install
+
+### Start the development server
+
+npm start
+
+## IMPORTANT NOTE
+
+Due to API limitations, the news fetching functionality is restricted to localhost use only. As a result, fetching news articles will work only when running the application locally.
+
+
 
 
 
